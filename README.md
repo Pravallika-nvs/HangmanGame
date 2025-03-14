@@ -12,4 +12,3 @@ A simple word-guessing game in Python.
 ✅ Tracks guessed letters  
 ✅ Limited attempts  
 
-## Running the Game
